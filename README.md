@@ -1,4 +1,4 @@
-#Ex-01--Implementation of Bayesian-Network
+# Ex-01--Implementation of Bayesian-Network
 
 ## Aim :
     To create a bayesian Network for the given dataset in Python
