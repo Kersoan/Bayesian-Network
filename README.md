@@ -1,4 +1,4 @@
-# Implementation of Bayesian-Network
+#Ex-01--Implementation of Bayesian-Network
 
 ## Aim :
     To create a bayesian Network for the given dataset in Python
@@ -20,9 +20,8 @@ Step 14:Update margins and display the graph using matplotlib.pyplot<br/>
 
 ## Program:
 ~~~
-NAME:V.A.JITHENDRA
-REG.NO:212221230043
-
+NAME: KERSOAN P
+REG.NO: 212221230050
 ~~~
 ~~~
 
